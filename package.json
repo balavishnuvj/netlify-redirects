@@ -1,0 +1,23 @@
+{
+  "name": "netlify-redirects",
+  "version": "1.0.0",
+  "description": "Short URL redirects",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balavishnuvj/netlify-redirects.git"
+  },
+  "keywords": [],
+  "author": "Balavishnu V J<hello@balavishnuvj.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balavishnuvj/netlify-redirects/issues"
+  },
+  "homepage": "https://github.com/balavishnuvj/netlify-redirects#readme",
+  "dependencies": {
+    "netlify-shortener": "^2.4.0"
+  }
+}
